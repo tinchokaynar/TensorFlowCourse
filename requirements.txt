@@ -4,3 +4,4 @@ numpy
 matplotlib
 IPython
 six
+tensorflow_datasets
